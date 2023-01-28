@@ -1,4 +1,4 @@
-import Timer from "../Timer";
+import Timer from "./Timer";
 import "./styles.css";
 
 export default function App() {
